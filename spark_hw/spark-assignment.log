@@ -1,0 +1,7 @@
+root - WARNING - this is the beginning of the log file
+root - WARNING - Beginning run at 2019-10-30 20:18:20.308868
+root - WARNING - Finished loading files at 2019-10-30 20:20:47.355789
+root - WARNING - Finished rdd_transforms at 2019-10-30 20:58:56.141504
+root - WARNING - Finished outputting sparse vectors at 2019-10-30 21:02:16.568785
+root - WARNING - Finished creating matrix at 2019-10-30 21:02:17.150457
+root - WARNING - Finished saving sparse matrix at 2019-10-30 21:02:20.679924
